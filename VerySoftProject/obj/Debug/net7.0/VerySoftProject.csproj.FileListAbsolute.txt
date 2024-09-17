@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\bin\Debug\net7.0\VerySoftProject.exe
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\bin\Debug\net7.0\VerySoftProject.deps.json
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\bin\Debug\net7.0\VerySoftProject.runtimeconfig.json
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\bin\Debug\net7.0\VerySoftProject.dll
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\bin\Debug\net7.0\VerySoftProject.pdb
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.dll
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\refint\VerySoftProject.dll
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.pdb
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\VerySoftProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\VerySoftProject\VerySoftProject\obj\Debug\net7.0\ref\VerySoftProject.dll
